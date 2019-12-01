@@ -1,0 +1,19 @@
+2019-12-01 16:09:29,758 INFO (ServerHandler.java:23)- 激活
+2019-12-01 16:09:29,780 INFO (ServerHandler.java:28)- 服务端收到消息：PooledUnsafeDirectByteBuf(ridx: 0, widx: 441, cap: 1024)
+2019-12-01 16:09:29,785 INFO (RequestHandler.java:33)- Request(serviceName=com.rpc.service.DemoService, method=sayHello, headers={}, prameterTypes=[class java.lang.String], parameters=[world])
+2019-12-01 16:09:29,785 INFO (RequestHandler.java:44)- ServiceObject(name=com.rpc.service.DemoService, interf=interface com.rpc.service.DemoService, obj=com.rpc.service.impl.DemoServiceImpl@2a16196d)
+2019-12-01 16:09:29,786 INFO (RequestHandler.java:57)- Response(status=SUCCESS, headers={}, returnValue=Hello world, exception=null)
+2019-12-01 16:09:29,793 INFO (ServerHandler.java:35)- 发送响应：UnpooledByteBufAllocator$InstrumentedUnpooledUnsafeHeapByteBuf(ridx: 0, widx: 377, cap: 377)
+2019-12-01 16:09:29,794 INFO (ServerHandler.java:41)- ctx.flush
+2019-12-01 16:09:29,796 INFO (ServerHandler.java:41)- ctx.flush
+2019-12-01 16:09:29,807 INFO (ServerHandler.java:23)- 激活
+2019-12-01 16:09:29,808 INFO (ServerHandler.java:28)- 服务端收到消息：PooledUnsafeDirectByteBuf(ridx: 0, widx: 552, cap: 1024)
+2019-12-01 16:09:29,810 INFO (RequestHandler.java:33)- Request(serviceName=com.rpc.service.DemoService, method=multiPoint, headers={}, prameterTypes=[class java.awt.Point, int], parameters=[java.awt.Point[x=5,y=10], 2])
+2019-12-01 16:09:29,810 INFO (RequestHandler.java:44)- ServiceObject(name=com.rpc.service.DemoService, interf=interface com.rpc.service.DemoService, obj=com.rpc.service.impl.DemoServiceImpl@2a16196d)
+2019-12-01 16:09:29,810 INFO (RequestHandler.java:57)- Response(status=SUCCESS, headers={}, returnValue=java.awt.Point[x=10,y=20], exception=null)
+2019-12-01 16:09:29,810 INFO (ServerHandler.java:35)- 发送响应：UnpooledByteBufAllocator$InstrumentedUnpooledUnsafeHeapByteBuf(ridx: 0, widx: 410, cap: 410)
+2019-12-01 16:09:29,811 INFO (ServerHandler.java:41)- ctx.flush
+2019-12-01 16:09:29,811 INFO (ServerHandler.java:41)- ctx.flush
+2019-12-01 16:15:28,692 INFO (StartupInfoLogger.java:55)- Starting ServerApp on DESKTOP-OUB6FAK with PID 1392 (E:\eclipse-workspace\rpc-parent\rpc-server\target\classes started by likai in E:\eclipse-workspace\rpc-parent\rpc-server)
+2019-12-01 16:15:28,694 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-12-01 16:15:29,126 INFO (ZkEventThread.java:65)- Starting ZkClient event thread.

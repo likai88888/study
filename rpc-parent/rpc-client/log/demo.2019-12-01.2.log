@@ -1,0 +1,16 @@
+2019-12-01 10:30:07,933 INFO (Environment.java:100)- Client environment:user.name=likai
+2019-12-01 10:30:07,934 INFO (Environment.java:100)- Client environment:user.home=C:\Users\likai
+2019-12-01 10:30:07,934 INFO (Environment.java:100)- Client environment:user.dir=E:\eclipse-workspace\rpc-parent\rpc-client
+2019-12-01 10:30:07,935 INFO (ZooKeeper.java:438)- Initiating client connection, connectString=192.168.211.128:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@3543df7d
+2019-12-01 10:30:08,111 INFO (ZkClient.java:936)- Waiting for keeper state SyncConnected
+2019-12-01 10:30:08,113 INFO (ClientCnxn.java:1032)- Opening socket connection to server 192.168.211.128/192.168.211.128:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-12-01 10:30:08,115 INFO (ClientCnxn.java:876)- Socket connection established to 192.168.211.128/192.168.211.128:2181, initiating session
+2019-12-01 10:30:08,118 INFO (ClientCnxn.java:1299)- Session establishment complete on server 192.168.211.128/192.168.211.128:2181, sessionid = 0x1000677c6ec0043, negotiated timeout = 30000
+2019-12-01 10:30:08,119 INFO (ZkClient.java:713)- zookeeper state changed (SyncConnected)
+2019-12-01 10:30:08,165 INFO (StartupInfoLogger.java:61)- Started ClientApp in 9.966 seconds (JVM running for 10.231)
+2019-12-01 10:30:08,168 INFO (ZkEventThread.java:83)- Terminate ZkClient event thread.
+2019-12-01 10:30:08,171 INFO (ZooKeeper.java:684)- Session: 0x1000677c6ec0043 closed
+2019-12-01 10:30:08,171 INFO (ClientCnxn.java:519)- EventThread shut down for session: 0x1000677c6ec0043
+2019-12-01 10:31:23,692 INFO (StartupInfoLogger.java:55)- Starting ClientApp on DESKTOP-OUB6FAK with PID 14560 (E:\eclipse-workspace\rpc-parent\rpc-client\target\classes started by likai in E:\eclipse-workspace\rpc-parent\rpc-client)
+2019-12-01 10:31:23,696 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-12-01 10:31:24,240 INFO (ZkEventThread.java:65)- Starting ZkClient event thread.

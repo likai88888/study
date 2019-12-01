@@ -1,0 +1,18 @@
+2019-12-01 15:42:37,144 INFO (Environment.java:100)- Client environment:user.name=likai
+2019-12-01 15:42:37,147 INFO (Environment.java:100)- Client environment:user.home=C:\Users\likai
+2019-12-01 15:42:37,147 INFO (Environment.java:100)- Client environment:user.dir=E:\eclipse-workspace\rpc-parent\rpc-client
+2019-12-01 15:42:37,148 INFO (ZooKeeper.java:438)- Initiating client connection, connectString=192.168.211.128:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@5dd91bca
+2019-12-01 15:42:37,344 INFO (ZkClient.java:936)- Waiting for keeper state SyncConnected
+2019-12-01 15:42:37,346 INFO (ClientCnxn.java:1032)- Opening socket connection to server 192.168.211.128/192.168.211.128:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-12-01 15:42:37,352 INFO (ClientCnxn.java:876)- Socket connection established to 192.168.211.128/192.168.211.128:2181, initiating session
+2019-12-01 15:42:37,356 INFO (ClientCnxn.java:1299)- Session establishment complete on server 192.168.211.128/192.168.211.128:2181, sessionid = 0x1000677c6ec006f, negotiated timeout = 30000
+2019-12-01 15:42:37,357 INFO (ZkClient.java:713)- zookeeper state changed (SyncConnected)
+2019-12-01 15:42:37,490 INFO (StartupInfoLogger.java:61)- Started ClientApp in 10.096 seconds (JVM running for 10.377)
+2019-12-01 15:42:37,906 INFO (ClientHandler.java:18)- 连接服务端成功：ChannelHandlerContext(handler, [id: 0xd5ee3c79, L:/192.168.211.1:58159 - R:/192.168.211.1:18081])
+2019-12-01 15:42:37,909 INFO (NettyNetClient.java:34)- 客户端发送消息：UnpooledByteBufAllocator$InstrumentedUnpooledUnsafeHeapByteBuf(ridx: 0, widx: 441, cap: 441)
+2019-12-01 15:42:37,924 INFO (ClientHandler.java:24)- client read msg: PooledUnsafeDirectByteBuf(ridx: 0, widx: 377, cap: 1024)
+2019-12-01 15:42:37,924 INFO (ClientHandler.java:30)- 客户端收到消息完成
+2019-12-01 15:42:37,925 INFO (NettyNetClient.java:39)- sendRequest get reply: null
+2019-12-01 15:48:26,358 INFO (StartupInfoLogger.java:55)- Starting ClientApp on DESKTOP-OUB6FAK with PID 15892 (E:\eclipse-workspace\rpc-parent\rpc-client\target\classes started by likai in E:\eclipse-workspace\rpc-parent\rpc-client)
+2019-12-01 15:48:26,361 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-12-01 15:48:26,746 INFO (ZkEventThread.java:65)- Starting ZkClient event thread.

@@ -1,0 +1,13 @@
+2019-12-01 14:37:10,134 INFO (Environment.java:100)- Client environment:user.name=likai
+2019-12-01 14:37:10,137 INFO (Environment.java:100)- Client environment:user.home=C:\Users\likai
+2019-12-01 14:37:10,138 INFO (Environment.java:100)- Client environment:user.dir=E:\eclipse-workspace\rpc-parent\rpc-client
+2019-12-01 14:37:10,138 INFO (ZooKeeper.java:438)- Initiating client connection, connectString=192.168.211.128:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@79145d5a
+2019-12-01 14:37:10,329 INFO (ZkClient.java:936)- Waiting for keeper state SyncConnected
+2019-12-01 14:37:10,331 INFO (ClientCnxn.java:1032)- Opening socket connection to server 192.168.211.128/192.168.211.128:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-12-01 14:37:10,337 INFO (ClientCnxn.java:876)- Socket connection established to 192.168.211.128/192.168.211.128:2181, initiating session
+2019-12-01 14:37:10,342 INFO (ClientCnxn.java:1299)- Session establishment complete on server 192.168.211.128/192.168.211.128:2181, sessionid = 0x1000677c6ec0062, negotiated timeout = 30000
+2019-12-01 14:37:10,343 INFO (ZkClient.java:713)- zookeeper state changed (SyncConnected)
+2019-12-01 14:37:10,480 INFO (StartupInfoLogger.java:61)- Started ClientApp in 10.132 seconds (JVM running for 10.392)
+2019-12-01 14:37:10,896 INFO (ClientHandler.java:18)- 连接服务端成功：ChannelHandlerContext(handler, [id: 0x3e0ef770, L:/192.168.211.1:55037 - R:/192.168.211.1:18081])
+2019-12-01 14:37:10,898 INFO (NettyNetClient.java:34)- 客户端发送消息：UnpooledByteBufAllocator$InstrumentedUnpooledUnsafeHeapByteBuf(ridx: 0, widx: 441, cap: 441)
+2019-12-01 14:37:10,900 INFO (NettyNetClient.java:38)- sendRequest get reply: null

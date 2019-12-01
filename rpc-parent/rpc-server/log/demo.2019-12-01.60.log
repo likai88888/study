@@ -1,0 +1,77 @@
+2019-12-01 16:15:57,429 INFO (ServerHandler.java:35)- 发送响应：UnpooledByteBufAllocator$InstrumentedUnpooledUnsafeHeapByteBuf(ridx: 0, widx: 390, cap: 390)
+2019-12-01 16:15:57,430 INFO (ServerHandler.java:41)- ctx.flush
+2019-12-01 16:15:57,431 INFO (ServerHandler.java:41)- ctx.flush
+2019-12-01 16:18:28,582 INFO (StartupInfoLogger.java:55)- Starting ServerApp on DESKTOP-OUB6FAK with PID 1556 (E:\eclipse-workspace\rpc-parent\rpc-server\target\classes started by likai in E:\eclipse-workspace\rpc-parent\rpc-server)
+2019-12-01 16:18:28,585 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-12-01 16:18:29,025 INFO (ZkEventThread.java:65)- Starting ZkClient event thread.
+2019-12-01 16:18:38,037 INFO (Environment.java:100)- Client environment:zookeeper.version=3.4.8--1, built on 02/06/2016 03:18 GMT
+2019-12-01 16:18:38,038 INFO (Environment.java:100)- Client environment:host.name=DESKTOP-OUB6FAK
+2019-12-01 16:18:38,038 INFO (Environment.java:100)- Client environment:java.version=1.8.0_231
+2019-12-01 16:18:38,038 INFO (Environment.java:100)- Client environment:java.vendor=Oracle Corporation
+2019-12-01 16:18:38,039 INFO (Environment.java:100)- Client environment:java.home=D:\Program Files\Java\jdk1.8.0_231\jre
+2019-12-01 16:18:38,045 INFO (Environment.java:100)- Client environment:java.class.path=E:\eclipse-workspace\rpc-parent\rpc-server\target\classes;D:\Program Files\apache-maven-3.6.2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;D:\Program Files\apache-maven-3.6.2\repository\org\springframework\spring-core\5.2.1.RELEASE\spring-core-5.2.1.RELEASE.jar;D:\Program Files\apache-maven-3.6.2\repository\org\springframework\spring-jcl\5.2.1.RELEASE\spring-jcl-5.2.1.RELEASE.jar;E:\eclipse-workspace\rpc-parent\rpc-protocol\target\classes;D:\Program Files\apache-maven-3.6.2\repository\io\netty\netty-all\4.1.32.Final\netty-all-4.1.32.Final.jar;D:\Program Files\apache-maven-3.6.2\repository\com\101tec\zkclient\0.10\zkclient-0.10.jar;D:\Program Files\apache-maven-3.6.2\repository\org\apache\zookeeper\zookeeper\3.4.8\zookeeper-3.4.8.jar;D:\Program Files\apache-maven-3.6.2\repository\log4j\log4j\1.2.16\log4j-1.2.16.jar;D:\Program Files\apache-maven-3.6.2\repository\jline\jline\0.9.94\jline-0.9.94.jar;D:\Program Files\apache-maven-3.6.2\repository\io\netty\netty\3.7.0.Final\netty-3.7.0.Final.jar;D:\Program Files\apache-maven-3.6.2\repository\com\alibaba\fastjson\1.2.56\fastjson-1.2.56.jar;D:\Program Files\apache-maven-3.6.2\repository\org\springframework\boot\spring-boot-starter\2.2.1.RELEASE\spring-boot-starter-2.2.1.RELEASE.jar;D:\Program Files\apache-maven-3.6.2\repository\org\springframework\boot\spring-boot\2.2.1.RELEASE\spring-boot-2.2.1.RELEASE.jar;D:\Program Files\apache-maven-3.6.2\repository\org\springframework\spring-context\5.2.1.RELEASE\spring-context-5.2.1.RELEASE.jar;D:\Program Files\apache-maven-3.6.2\repository\org\springframework\spring-aop\5.2.1.RELEASE\spring-aop-5.2.1.RELEASE.jar;D:\Program Files\apache-maven-3.6.2\repository\org\springframework\spring-beans\5.2.1.RELEASE\spring-beans-5.2.1.RELEASE.jar;D:\Program Files\apache-maven-3.6.2\repository\org\springframework\spring-expression\5.2.1.RELEASE\spring-expression-5.2.1.RELEASE.jar;D:\Program Files\apache-maven-3.6.2\repository\org\springframework\boot\spring-boot-autoconfigure\2.2.1.RELEASE\spring-boot-autoconfigure-2.2.1.RELEASE.jar;D:\Program Files\apache-maven-3.6.2\repository\org\springframework\boot\spring-boot-starter-logging\2.2.1.RELEASE\spring-boot-starter-logging-2.2.1.RELEASE.jar;D:\Program Files\apache-maven-3.6.2\repository\ch\qos\logback\logback-classic\1.2.3\logback-classic-1.2.3.jar;D:\Program Files\apache-maven-3.6.2\repository\ch\qos\logback\logback-core\1.2.3\logback-core-1.2.3.jar;D:\Program Files\apache-maven-3.6.2\repository\org\apache\logging\log4j\log4j-to-slf4j\2.12.1\log4j-to-slf4j-2.12.1.jar;D:\Program Files\apache-maven-3.6.2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;D:\Program Files\apache-maven-3.6.2\repository\org\slf4j\jul-to-slf4j\1.7.29\jul-to-slf4j-1.7.29.jar;D:\Program Files\apache-maven-3.6.2\repository\jakarta\annotation\jakarta.annotation-api\1.3.5\jakarta.annotation-api-1.3.5.jar;D:\Program Files\apache-maven-3.6.2\repository\org\yaml\snakeyaml\1.25\snakeyaml-1.25.jar;D:\Program Files\apache-maven-3.6.2\repository\org\projectlombok\lombok\1.18.10\lombok-1.18.10.jar
+2019-12-01 16:18:38,045 INFO (Environment.java:100)- Client environment:java.library.path=D:\Program Files\Java\jdk1.8.0_231\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:/Program Files/Java/jre1.8.0_231/bin/server;D:/Program Files/Java/jre1.8.0_231/bin;D:/Program Files/Java/jre1.8.0_231/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\Program Files\apache-maven-3.6.2\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\Program Files\TortoiseGit\bin;D:\Program Files\Git\cmd;C:\Users\likai\AppData\Local\Microsoft\WindowsApps;;D:\Program Files\eclipse;;.
+2019-12-01 16:18:38,045 INFO (Environment.java:100)- Client environment:java.io.tmpdir=C:\Users\likai\AppData\Local\Temp\
+2019-12-01 16:18:38,045 INFO (Environment.java:100)- Client environment:java.compiler=<NA>
+2019-12-01 16:18:38,045 INFO (Environment.java:100)- Client environment:os.name=Windows 10
+2019-12-01 16:18:38,046 INFO (Environment.java:100)- Client environment:os.arch=amd64
+2019-12-01 16:18:38,046 INFO (Environment.java:100)- Client environment:os.version=10.0
+2019-12-01 16:18:38,046 INFO (Environment.java:100)- Client environment:user.name=likai
+2019-12-01 16:18:38,049 INFO (Environment.java:100)- Client environment:user.home=C:\Users\likai
+2019-12-01 16:18:38,049 INFO (Environment.java:100)- Client environment:user.dir=E:\eclipse-workspace\rpc-parent\rpc-server
+2019-12-01 16:18:38,050 INFO (ZooKeeper.java:438)- Initiating client connection, connectString=192.168.211.128:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@4264b240
+2019-12-01 16:18:38,237 INFO (ZkClient.java:936)- Waiting for keeper state SyncConnected
+2019-12-01 16:18:38,269 INFO (ClientCnxn.java:1032)- Opening socket connection to server 192.168.211.128/192.168.211.128:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-12-01 16:18:38,271 INFO (ClientCnxn.java:876)- Socket connection established to 192.168.211.128/192.168.211.128:2181, initiating session
+2019-12-01 16:18:38,275 INFO (ClientCnxn.java:1299)- Session establishment complete on server 192.168.211.128/192.168.211.128:2181, sessionid = 0x1000677c6ec007f, negotiated timeout = 30000
+2019-12-01 16:18:38,276 INFO (ZkClient.java:713)- zookeeper state changed (SyncConnected)
+2019-12-01 16:18:38,316 INFO (NettyRpcServer.java:37)- Starting server at 0.0.0.0/0.0.0.0:18081
+2019-12-01 16:18:38,664 WARN (AbstractApplicationContext.java:558)- Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'nettyRpcServer': Invocation of init method failed; nested exception is java.net.BindException: Address already in use: bind
+2019-12-01 16:18:38,671 INFO (ZkEventThread.java:83)- Terminate ZkClient event thread.
+2019-12-01 16:18:38,672 INFO (ClientCnxn.java:519)- EventThread shut down for session: 0x1000677c6ec007f
+2019-12-01 16:18:38,672 INFO (ZooKeeper.java:684)- Session: 0x1000677c6ec007f closed
+2019-12-01 16:18:38,678 INFO (ConditionEvaluationReportLoggingListener.java:136)- 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-12-01 16:18:38,680 ERROR (SpringApplication.java:826)- Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'nettyRpcServer': Invocation of init method failed; nested exception is java.net.BindException: Address already in use: bind
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeInitialization(InitDestroyAnnotationBeanPostProcessor.java:160)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsBeforeInitialization(AbstractAutowireCapableBeanFactory.java:416)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1795)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:595)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:878)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at com.ServerApp.main(ServerApp.java:11)
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:130)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:562)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1358)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:501)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:486)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:1019)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:258)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:366)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:474)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:909)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+2019-12-01 16:18:47,256 INFO (StartupInfoLogger.java:55)- Starting ServerApp on DESKTOP-OUB6FAK with PID 13792 (E:\eclipse-workspace\rpc-parent\rpc-server\target\classes started by likai in E:\eclipse-workspace\rpc-parent\rpc-server)
+2019-12-01 16:18:47,259 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-12-01 16:18:47,694 INFO (ZkEventThread.java:65)- Starting ZkClient event thread.

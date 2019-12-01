@@ -1,0 +1,16 @@
+2019-12-01 14:10:37,351 INFO (Environment.java:100)- Client environment:user.name=likai
+2019-12-01 14:10:37,353 INFO (Environment.java:100)- Client environment:user.home=C:\Users\likai
+2019-12-01 14:10:37,354 INFO (Environment.java:100)- Client environment:user.dir=E:\eclipse-workspace\rpc-parent\rpc-client
+2019-12-01 14:10:37,355 INFO (ZooKeeper.java:438)- Initiating client connection, connectString=192.168.211.128:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@5dd91bca
+2019-12-01 14:10:37,542 INFO (ZkClient.java:936)- Waiting for keeper state SyncConnected
+2019-12-01 14:10:37,544 INFO (ClientCnxn.java:1032)- Opening socket connection to server 192.168.211.128/192.168.211.128:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-12-01 14:10:37,546 INFO (ClientCnxn.java:876)- Socket connection established to 192.168.211.128/192.168.211.128:2181, initiating session
+2019-12-01 14:10:37,551 INFO (ClientCnxn.java:1299)- Session establishment complete on server 192.168.211.128/192.168.211.128:2181, sessionid = 0x1000677c6ec005a, negotiated timeout = 30000
+2019-12-01 14:10:37,552 INFO (ZkClient.java:713)- zookeeper state changed (SyncConnected)
+2019-12-01 14:10:37,692 INFO (StartupInfoLogger.java:61)- Started ClientApp in 10.096 seconds (JVM running for 10.351)
+2019-12-01 14:10:38,103 INFO (ClientHandler.java:18)- 连接服务端成功：ChannelHandlerContext(handler, [id: 0xb8bbdced, L:/192.168.211.1:54028 - R:/192.168.211.1:18081])
+2019-12-01 14:10:38,104 INFO (NettyNetClient.java:34)- 客户端发送消息：UnpooledByteBufAllocator$InstrumentedUnpooledUnsafeHeapByteBuf(ridx: 0, widx: 441, cap: 441)
+2019-12-01 14:10:38,107 INFO (NettyNetClient.java:38)- sendRequest get reply: null
+2019-12-01 14:17:03,195 INFO (StartupInfoLogger.java:55)- Starting ClientApp on DESKTOP-OUB6FAK with PID 1760 (E:\eclipse-workspace\rpc-parent\rpc-client\target\classes started by likai in E:\eclipse-workspace\rpc-parent\rpc-client)
+2019-12-01 14:17:03,197 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-12-01 14:17:03,586 INFO (ZkEventThread.java:65)- Starting ZkClient event thread.

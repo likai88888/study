@@ -1,0 +1,9 @@
+2019-12-01 14:43:02,852 INFO (ServerHandler.java:24)- 激活
+2019-12-01 14:43:02,874 INFO (ServerHandler.java:29)- 服务端收到消息：PooledUnsafeDirectByteBuf(ridx: 0, widx: 441, cap: 1024)
+2019-12-01 14:43:02,880 INFO (RequestHandler.java:33)- Request(serviceName=com.rpc.service.DemoService, method=sayHello, headers={}, prameterTypes=[class java.lang.String], parameters=[world])
+2019-12-01 14:43:02,880 INFO (RequestHandler.java:37)- ServiceObject(name=com.rpc.service.DemoService, interf=interface com.rpc.service.DemoService, obj=class com.rpc.service.impl.DemoServiceImpl)
+2019-12-01 14:43:02,881 INFO (RequestHandler.java:57)- Response(status=ERROR, headers={}, returnValue=null, exception=java.lang.IllegalArgumentException: object is not an instance of declaring class)
+2019-12-01 14:43:02,891 INFO (ServerHandler.java:34)- 发送响应：PooledUnsafeDirectByteBuf(ridx: 441, widx: 441, cap: 1024)
+2019-12-01 14:49:40,458 INFO (StartupInfoLogger.java:55)- Starting ServerApp on DESKTOP-OUB6FAK with PID 11560 (E:\eclipse-workspace\rpc-parent\rpc-server\target\classes started by likai in E:\eclipse-workspace\rpc-parent\rpc-server)
+2019-12-01 14:49:40,462 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-12-01 14:49:40,917 INFO (ZkEventThread.java:65)- Starting ZkClient event thread.

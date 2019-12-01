@@ -1,0 +1,24 @@
+netty:
+#tcp监听的端口
+ tcp:
+  port: 18081
+# bossGroup的线程数
+ boss:
+  thread:
+   count: 10
+# worker的线程数
+ worker:
+  thread:
+   count: 20
+#是否使用长连接
+ so:
+  keepalive: true
+  backlog: 100
+zk:
+ address: 192.168.211.128:2181
+rpc:
+ path: /Rpc-framework
+ protocol: javas
+ scanPackage: com.rpc.service.impl
+logging:
+  config: ./config/logback-boot.xml

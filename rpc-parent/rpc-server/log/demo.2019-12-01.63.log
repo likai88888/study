@@ -1,0 +1,21 @@
+2019-12-01 16:19:16,816 INFO (ServerHandler.java:23)- 激活
+2019-12-01 16:19:16,837 INFO (ServerHandler.java:28)- 服务端收到消息：PooledUnsafeDirectByteBuf(ridx: 0, widx: 441, cap: 1024)
+2019-12-01 16:19:16,842 INFO (RequestHandler.java:33)- Request(serviceName=com.rpc.service.DemoService, method=sayHello, headers={}, prameterTypes=[class java.lang.String], parameters=[world])
+2019-12-01 16:19:16,843 INFO (RequestHandler.java:44)- ServiceObject(name=com.rpc.service.DemoService, interf=interface com.rpc.service.DemoService, obj=com.rpc.service.impl.DemoServiceImpl@7c636669)
+2019-12-01 16:19:16,843 INFO (RequestHandler.java:57)- Response(status=SUCCESS, headers={}, returnValue=Hello world, exception=null)
+2019-12-01 16:19:16,854 INFO (ServerHandler.java:35)- 发送响应：UnpooledByteBufAllocator$InstrumentedUnpooledUnsafeHeapByteBuf(ridx: 0, widx: 377, cap: 377)
+2019-12-01 16:19:16,855 INFO (ServerHandler.java:41)- ctx.flush
+2019-12-01 16:19:16,858 INFO (ServerHandler.java:41)- ctx.flush
+2019-12-01 16:19:16,865 INFO (ServerHandler.java:23)- 激活
+2019-12-01 16:19:16,866 INFO (ServerHandler.java:28)- 服务端收到消息：PooledUnsafeDirectByteBuf(ridx: 0, widx: 552, cap: 1024)
+2019-12-01 16:19:16,868 INFO (RequestHandler.java:33)- Request(serviceName=com.rpc.service.DemoService, method=multiPoint, headers={}, prameterTypes=[class java.awt.Point, int], parameters=[java.awt.Point[x=5,y=10], 2])
+2019-12-01 16:19:16,869 INFO (RequestHandler.java:44)- ServiceObject(name=com.rpc.service.DemoService, interf=interface com.rpc.service.DemoService, obj=com.rpc.service.impl.DemoServiceImpl@7c636669)
+2019-12-01 16:19:16,869 INFO (RequestHandler.java:57)- Response(status=SUCCESS, headers={}, returnValue=java.awt.Point[x=10,y=20], exception=null)
+2019-12-01 16:19:16,869 INFO (ServerHandler.java:35)- 发送响应：UnpooledByteBufAllocator$InstrumentedUnpooledUnsafeHeapByteBuf(ridx: 0, widx: 410, cap: 410)
+2019-12-01 16:19:16,869 INFO (ServerHandler.java:41)- ctx.flush
+2019-12-01 16:19:16,870 INFO (ServerHandler.java:41)- ctx.flush
+2019-12-01 16:19:16,874 INFO (ServerHandler.java:23)- 激活
+2019-12-01 16:19:16,875 INFO (ServerHandler.java:28)- 服务端收到消息：PooledUnsafeDirectByteBuf(ridx: 0, widx: 443, cap: 1024)
+2019-12-01 16:19:16,875 INFO (RequestHandler.java:33)- Request(serviceName=com.rpc.service.RpcInfoService, method=get, headers={}, prameterTypes=[class java.lang.String], parameters=[xiao san ])
+2019-12-01 16:19:16,876 INFO (RequestHandler.java:44)- ServiceObject(name=com.rpc.service.RpcInfoService, interf=interface com.rpc.service.RpcInfoService, obj=com.rpc.service.impl.RpcInfoServiceImpl@565d15b4)
+2019-12-01 16:19:16,876 INFO (RequestHandler.java:57)- Response(status=SUCCESS, headers={}, returnValue=我来找你，xiao san , exception=null)

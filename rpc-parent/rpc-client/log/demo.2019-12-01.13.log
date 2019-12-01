@@ -1,0 +1,12 @@
+2019-12-01 10:40:42,228 INFO (Environment.java:100)- Client environment:user.name=likai
+2019-12-01 10:40:42,231 INFO (Environment.java:100)- Client environment:user.home=C:\Users\likai
+2019-12-01 10:40:42,232 INFO (Environment.java:100)- Client environment:user.dir=E:\eclipse-workspace\rpc-parent\rpc-client
+2019-12-01 10:40:42,269 INFO (ZooKeeper.java:438)- Initiating client connection, connectString=192.168.211.128:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@42e22a53
+2019-12-01 10:40:42,452 INFO (ZkClient.java:936)- Waiting for keeper state SyncConnected
+2019-12-01 10:40:42,455 INFO (ClientCnxn.java:1032)- Opening socket connection to server 192.168.211.128/192.168.211.128:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-12-01 10:40:42,460 INFO (ClientCnxn.java:876)- Socket connection established to 192.168.211.128/192.168.211.128:2181, initiating session
+2019-12-01 10:40:42,467 INFO (ClientCnxn.java:1299)- Session establishment complete on server 192.168.211.128/192.168.211.128:2181, sessionid = 0x1000677c6ec0048, negotiated timeout = 30000
+2019-12-01 10:40:42,469 INFO (ZkClient.java:713)- zookeeper state changed (SyncConnected)
+2019-12-01 10:40:42,556 INFO (StartupInfoLogger.java:61)- Started ClientApp in 10.525 seconds (JVM running for 11.05)
+2019-12-01 11:08:32,624 INFO (StartupInfoLogger.java:55)- Starting ClientApp on DESKTOP-OUB6FAK with PID 9196 (E:\eclipse-workspace\rpc-parent\rpc-client\target\classes started by likai in E:\eclipse-workspace\rpc-parent\rpc-client)
+2019-12-01 11:08:32,630 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default

@@ -1,0 +1,10 @@
+2019-12-01 14:37:10,938 INFO (ClientHandler.java:24)- client read msg: PooledUnsafeDirectByteBuf(ridx: 0, widx: 1024, cap: 1024)
+2019-12-01 14:37:10,940 INFO (ClientHandler.java:24)- client read msg: PooledUnsafeDirectByteBuf(ridx: 0, widx: 1484, cap: 16384)
+2019-12-01 14:42:22,045 ERROR (ClientHandler.java:41)- 发生异常：远程主机强迫关闭了一个现有的连接。
+2019-12-01 14:42:52,615 INFO (StartupInfoLogger.java:55)- Starting ClientApp on DESKTOP-OUB6FAK with PID 14300 (E:\eclipse-workspace\rpc-parent\rpc-client\target\classes started by likai in E:\eclipse-workspace\rpc-parent\rpc-client)
+2019-12-01 14:42:52,617 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-12-01 14:42:53,046 INFO (ZkEventThread.java:65)- Starting ZkClient event thread.
+2019-12-01 14:43:02,082 INFO (Environment.java:100)- Client environment:zookeeper.version=3.4.8--1, built on 02/06/2016 03:18 GMT
+2019-12-01 14:43:02,084 INFO (Environment.java:100)- Client environment:host.name=DESKTOP-OUB6FAK
+2019-12-01 14:43:02,085 INFO (Environment.java:100)- Client environment:java.version=1.8.0_231
+2019-12-01 14:43:02,086 INFO (Environment.java:100)- Client environment:java.vendor=Oracle Corporation

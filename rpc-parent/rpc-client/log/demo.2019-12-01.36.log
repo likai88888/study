@@ -1,0 +1,16 @@
+2019-12-01 11:45:11,217 INFO (Environment.java:100)- Client environment:user.name=likai
+2019-12-01 11:45:11,219 INFO (Environment.java:100)- Client environment:user.home=C:\Users\likai
+2019-12-01 11:45:11,219 INFO (Environment.java:100)- Client environment:user.dir=E:\eclipse-workspace\rpc-parent\rpc-client
+2019-12-01 11:45:11,220 INFO (ZooKeeper.java:438)- Initiating client connection, connectString=192.168.211.128:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@5c8504fd
+2019-12-01 11:45:11,408 INFO (ZkClient.java:936)- Waiting for keeper state SyncConnected
+2019-12-01 11:45:11,410 INFO (ClientCnxn.java:1032)- Opening socket connection to server 192.168.211.128/192.168.211.128:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-12-01 11:45:11,412 INFO (ClientCnxn.java:876)- Socket connection established to 192.168.211.128/192.168.211.128:2181, initiating session
+2019-12-01 11:45:11,417 INFO (ClientCnxn.java:1299)- Session establishment complete on server 192.168.211.128/192.168.211.128:2181, sessionid = 0x1000677c6ec0052, negotiated timeout = 30000
+2019-12-01 11:45:11,418 INFO (ZkClient.java:713)- zookeeper state changed (SyncConnected)
+2019-12-01 11:45:11,464 INFO (StartupInfoLogger.java:61)- Started ClientApp in 9.996 seconds (JVM running for 10.26)
+2019-12-01 11:45:11,552 INFO (ZkEventThread.java:83)- Terminate ZkClient event thread.
+2019-12-01 11:45:11,554 INFO (ZooKeeper.java:684)- Session: 0x1000677c6ec0052 closed
+2019-12-01 11:45:11,554 INFO (ClientCnxn.java:519)- EventThread shut down for session: 0x1000677c6ec0052
+2019-12-01 11:52:25,920 INFO (StartupInfoLogger.java:55)- Starting ClientApp on DESKTOP-OUB6FAK with PID 15992 (E:\eclipse-workspace\rpc-parent\rpc-client\target\classes started by likai in E:\eclipse-workspace\rpc-parent\rpc-client)
+2019-12-01 11:52:25,922 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-12-01 11:52:26,298 INFO (ZkEventThread.java:65)- Starting ZkClient event thread.

@@ -1,0 +1,10 @@
+2019-12-01 10:27:49,329 INFO (StartupInfoLogger.java:55)- Starting ClientApp on DESKTOP-OUB6FAK with PID 12376 (E:\eclipse-workspace\rpc-parent\rpc-client\target\classes started by likai in E:\eclipse-workspace\rpc-parent\rpc-client)
+2019-12-01 10:27:49,331 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-12-01 10:27:49,790 INFO (ZkEventThread.java:65)- Starting ZkClient event thread.
+2019-12-01 10:29:58,511 INFO (StartupInfoLogger.java:55)- Starting ClientApp on DESKTOP-OUB6FAK with PID 15948 (E:\eclipse-workspace\rpc-parent\rpc-client\target\classes started by likai in E:\eclipse-workspace\rpc-parent\rpc-client)
+2019-12-01 10:29:58,514 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-12-01 10:29:58,907 INFO (ZkEventThread.java:65)- Starting ZkClient event thread.
+2019-12-01 10:30:07,917 INFO (Environment.java:100)- Client environment:zookeeper.version=3.4.8--1, built on 02/06/2016 03:18 GMT
+2019-12-01 10:30:07,919 INFO (Environment.java:100)- Client environment:host.name=DESKTOP-OUB6FAK
+2019-12-01 10:30:07,919 INFO (Environment.java:100)- Client environment:java.version=1.8.0_231
+2019-12-01 10:30:07,920 INFO (Environment.java:100)- Client environment:java.vendor=Oracle Corporation

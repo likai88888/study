@@ -1,0 +1,10 @@
+2019-12-01 10:31:33,307 INFO (Environment.java:100)- Client environment:user.name=likai
+2019-12-01 10:31:33,310 INFO (Environment.java:100)- Client environment:user.home=C:\Users\likai
+2019-12-01 10:31:33,310 INFO (Environment.java:100)- Client environment:user.dir=E:\eclipse-workspace\rpc-parent\rpc-client
+2019-12-01 10:31:33,346 INFO (ZooKeeper.java:438)- Initiating client connection, connectString=192.168.211.128:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@1949309d
+2019-12-01 10:31:33,525 INFO (ZkClient.java:936)- Waiting for keeper state SyncConnected
+2019-12-01 10:31:33,529 INFO (ClientCnxn.java:1032)- Opening socket connection to server 192.168.211.128/192.168.211.128:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-12-01 10:31:33,530 INFO (ClientCnxn.java:876)- Socket connection established to 192.168.211.128/192.168.211.128:2181, initiating session
+2019-12-01 10:31:33,535 INFO (ClientCnxn.java:1299)- Session establishment complete on server 192.168.211.128/192.168.211.128:2181, sessionid = 0x1000677c6ec0044, negotiated timeout = 30000
+2019-12-01 10:31:33,537 INFO (ZkClient.java:713)- zookeeper state changed (SyncConnected)
+2019-12-01 10:31:33,602 INFO (StartupInfoLogger.java:61)- Started ClientApp in 10.438 seconds (JVM running for 11.088)

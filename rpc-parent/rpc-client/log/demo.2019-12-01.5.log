@@ -1,0 +1,10 @@
+2019-12-01 10:32:55,863 INFO (ZkEventThread.java:83)- Terminate ZkClient event thread.
+2019-12-01 10:32:55,871 INFO (ZooKeeper.java:684)- Session: 0x1000677c6ec0044 closed
+2019-12-01 10:32:55,871 INFO (ClientCnxn.java:519)- EventThread shut down for session: 0x1000677c6ec0044
+2019-12-01 10:33:30,501 INFO (StartupInfoLogger.java:55)- Starting ClientApp on DESKTOP-OUB6FAK with PID 3420 (E:\eclipse-workspace\rpc-parent\rpc-client\target\classes started by likai in E:\eclipse-workspace\rpc-parent\rpc-client)
+2019-12-01 10:33:30,503 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-12-01 10:33:30,885 INFO (ZkEventThread.java:65)- Starting ZkClient event thread.
+2019-12-01 10:33:39,921 INFO (Environment.java:100)- Client environment:zookeeper.version=3.4.8--1, built on 02/06/2016 03:18 GMT
+2019-12-01 10:33:39,928 INFO (Environment.java:100)- Client environment:host.name=DESKTOP-OUB6FAK
+2019-12-01 10:33:39,929 INFO (Environment.java:100)- Client environment:java.version=1.8.0_231
+2019-12-01 10:33:39,929 INFO (Environment.java:100)- Client environment:java.vendor=Oracle Corporation

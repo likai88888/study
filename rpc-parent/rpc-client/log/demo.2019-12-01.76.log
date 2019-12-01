@@ -1,0 +1,9 @@
+2019-12-01 15:51:16,138 INFO (ClientHandler.java:30)- 客户端收到消息完成
+2019-12-01 15:51:16,140 INFO (NettyNetClient.java:39)- sendRequest get reply: null
+2019-12-01 15:53:06,296 INFO (StartupInfoLogger.java:55)- Starting ClientApp on DESKTOP-OUB6FAK with PID 5972 (E:\eclipse-workspace\rpc-parent\rpc-client\target\classes started by likai in E:\eclipse-workspace\rpc-parent\rpc-client)
+2019-12-01 15:53:06,299 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-12-01 15:53:06,693 INFO (ZkEventThread.java:65)- Starting ZkClient event thread.
+2019-12-01 15:53:15,727 INFO (Environment.java:100)- Client environment:zookeeper.version=3.4.8--1, built on 02/06/2016 03:18 GMT
+2019-12-01 15:53:15,733 INFO (Environment.java:100)- Client environment:host.name=DESKTOP-OUB6FAK
+2019-12-01 15:53:15,734 INFO (Environment.java:100)- Client environment:java.version=1.8.0_231
+2019-12-01 15:53:15,735 INFO (Environment.java:100)- Client environment:java.vendor=Oracle Corporation

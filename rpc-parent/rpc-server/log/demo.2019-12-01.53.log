@@ -1,0 +1,9 @@
+2019-12-01 16:04:53,739 INFO (RequestHandler.java:33)- Request(serviceName=com.rpc.service.DemoService, method=sayHello, headers={}, prameterTypes=[class java.lang.String], parameters=[world])
+2019-12-01 16:04:53,744 INFO (RequestHandler.java:44)- ServiceObject(name=com.rpc.service.DemoService, interf=interface com.rpc.service.DemoService, obj=com.rpc.service.impl.DemoServiceImpl@6cd2edcc)
+2019-12-01 16:04:53,744 INFO (RequestHandler.java:57)- Response(status=SUCCESS, headers={}, returnValue=Hello world, exception=null)
+2019-12-01 16:04:53,745 INFO (ServerHandler.java:36)- 发送响应：UnpooledByteBufAllocator$InstrumentedUnpooledUnsafeHeapByteBuf(ridx: 0, widx: 377, cap: 377)
+2019-12-01 16:04:53,745 INFO (ServerHandler.java:42)- ctx.flush
+2019-12-01 16:04:53,747 INFO (ServerHandler.java:42)- ctx.flush
+2019-12-01 16:08:44,063 INFO (StartupInfoLogger.java:55)- Starting ServerApp on DESKTOP-OUB6FAK with PID 15344 (E:\eclipse-workspace\rpc-parent\rpc-server\target\classes started by likai in E:\eclipse-workspace\rpc-parent\rpc-server)
+2019-12-01 16:08:44,066 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-12-01 16:08:44,503 INFO (ZkEventThread.java:65)- Starting ZkClient event thread.

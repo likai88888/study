@@ -1,0 +1,10 @@
+2019-12-01 16:19:16,864 INFO (ClientHandler.java:21)- 连接服务端成功：ChannelHandlerContext(handler, [id: 0x32ee4731, L:/192.168.211.1:59843 - R:/192.168.211.1:18081])
+2019-12-01 16:19:16,864 INFO (NettyNetClient.java:34)- 客户端发送消息：UnpooledByteBufAllocator$InstrumentedUnpooledUnsafeHeapByteBuf(ridx: 0, widx: 552, cap: 552)
+2019-12-01 16:19:16,869 INFO (ClientHandler.java:27)- client read msg: PooledUnsafeDirectByteBuf(ridx: 0, widx: 410, cap: 1024)
+2019-12-01 16:19:16,870 INFO (ClientHandler.java:35)- 客户端收到消息完成
+2019-12-01 16:19:16,870 INFO (NettyNetClient.java:41)- sendRequest get reply: [B@4084b670
+2019-12-01 16:19:16,874 INFO (NettyNetClient.java:34)- 客户端发送消息：UnpooledByteBufAllocator$InstrumentedUnpooledUnsafeHeapByteBuf(ridx: 0, widx: 443, cap: 443)
+2019-12-01 16:19:16,874 INFO (ClientHandler.java:21)- 连接服务端成功：ChannelHandlerContext(handler, [id: 0xa88f94c2, L:/192.168.211.1:59844 - R:/192.168.211.1:18081])
+2019-12-01 16:19:16,878 INFO (ClientHandler.java:27)- client read msg: PooledUnsafeDirectByteBuf(ridx: 0, widx: 390, cap: 1024)
+2019-12-01 16:19:16,878 INFO (ClientHandler.java:35)- 客户端收到消息完成
+2019-12-01 16:19:16,878 INFO (NettyNetClient.java:41)- sendRequest get reply: [B@4f45b869

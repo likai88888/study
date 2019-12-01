@@ -1,0 +1,13 @@
+2019-12-01 16:15:57,417 INFO (NettyNetClient.java:34)- 客户端发送消息：UnpooledByteBufAllocator$InstrumentedUnpooledUnsafeHeapByteBuf(ridx: 0, widx: 552, cap: 552)
+2019-12-01 16:15:57,417 INFO (ClientHandler.java:21)- 连接服务端成功：ChannelHandlerContext(handler, [id: 0x15ee1038, L:/192.168.211.1:59614 - R:/192.168.211.1:18081])
+2019-12-01 16:15:57,422 INFO (ClientHandler.java:27)- client read msg: PooledUnsafeDirectByteBuf(ridx: 0, widx: 410, cap: 1024)
+2019-12-01 16:15:57,422 INFO (ClientHandler.java:35)- 客户端收到消息完成
+2019-12-01 16:15:57,423 INFO (NettyNetClient.java:41)- sendRequest get reply: [B@ce228bc
+2019-12-01 16:15:57,427 INFO (NettyNetClient.java:34)- 客户端发送消息：UnpooledByteBufAllocator$InstrumentedUnpooledUnsafeHeapByteBuf(ridx: 0, widx: 443, cap: 443)
+2019-12-01 16:15:57,427 INFO (ClientHandler.java:21)- 连接服务端成功：ChannelHandlerContext(handler, [id: 0x8952333c, L:/192.168.211.1:59615 - R:/192.168.211.1:18081])
+2019-12-01 16:15:57,431 INFO (ClientHandler.java:27)- client read msg: PooledUnsafeDirectByteBuf(ridx: 0, widx: 390, cap: 1024)
+2019-12-01 16:15:57,431 INFO (ClientHandler.java:35)- 客户端收到消息完成
+2019-12-01 16:15:57,431 INFO (NettyNetClient.java:41)- sendRequest get reply: [B@1a9e2a45
+2019-12-01 16:19:06,643 INFO (StartupInfoLogger.java:55)- Starting ClientApp on DESKTOP-OUB6FAK with PID 15960 (E:\eclipse-workspace\rpc-parent\rpc-client\target\classes started by likai in E:\eclipse-workspace\rpc-parent\rpc-client)
+2019-12-01 16:19:06,646 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-12-01 16:19:07,039 INFO (ZkEventThread.java:65)- Starting ZkClient event thread.

@@ -1,0 +1,10 @@
+2019-12-01 15:56:48,599 INFO (ClientHandler.java:24)- client read msg: PooledUnsafeDirectByteBuf(ridx: 0, widx: 377, cap: 1024)
+2019-12-01 15:56:48,602 INFO (ClientHandler.java:30)- 客户端收到消息完成
+2019-12-01 15:56:48,602 INFO (NettyNetClient.java:39)- sendRequest get reply: null
+2019-12-01 16:01:47,044 INFO (StartupInfoLogger.java:55)- Starting ClientApp on DESKTOP-OUB6FAK with PID 10732 (E:\eclipse-workspace\rpc-parent\rpc-client\target\classes started by likai in E:\eclipse-workspace\rpc-parent\rpc-client)
+2019-12-01 16:01:47,046 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-12-01 16:01:47,439 INFO (ZkEventThread.java:65)- Starting ZkClient event thread.
+2019-12-01 16:01:56,472 INFO (Environment.java:100)- Client environment:zookeeper.version=3.4.8--1, built on 02/06/2016 03:18 GMT
+2019-12-01 16:01:56,473 INFO (Environment.java:100)- Client environment:host.name=DESKTOP-OUB6FAK
+2019-12-01 16:01:56,474 INFO (Environment.java:100)- Client environment:java.version=1.8.0_231
+2019-12-01 16:01:56,476 INFO (Environment.java:100)- Client environment:java.vendor=Oracle Corporation

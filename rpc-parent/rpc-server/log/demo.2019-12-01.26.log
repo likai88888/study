@@ -1,0 +1,10 @@
+2019-12-01 14:50:29,800 INFO (ServerHandler.java:24)- 激活
+2019-12-01 14:50:29,822 INFO (ServerHandler.java:29)- 服务端收到消息：PooledUnsafeDirectByteBuf(ridx: 0, widx: 441, cap: 1024)
+2019-12-01 14:50:29,826 INFO (RequestHandler.java:33)- Request(serviceName=com.rpc.service.DemoService, method=sayHello, headers={}, prameterTypes=[class java.lang.String], parameters=[world])
+2019-12-01 14:50:29,827 INFO (RequestHandler.java:37)- ServiceObject(name=com.rpc.service.DemoService, interf=interface com.rpc.service.DemoService, obj=com.rpc.service.impl.DemoServiceImpl@6bc63f1d)
+2019-12-01 14:50:29,828 INFO (RequestHandler.java:57)- Response(status=SUCCESS, headers={}, returnValue=Hello world, exception=null)
+2019-12-01 14:50:29,829 INFO (ServerHandler.java:34)- 发送响应：PooledUnsafeDirectByteBuf(ridx: 441, widx: 441, cap: 1024)
+2019-12-01 14:59:07,629 ERROR (ServerHandler.java:49)- 发生异常：远程主机强迫关闭了一个现有的连接。
+2019-12-01 14:59:14,638 INFO (StartupInfoLogger.java:55)- Starting ServerApp on DESKTOP-OUB6FAK with PID 14784 (E:\eclipse-workspace\rpc-parent\rpc-server\target\classes started by likai in E:\eclipse-workspace\rpc-parent\rpc-server)
+2019-12-01 14:59:14,641 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-12-01 14:59:15,088 INFO (ZkEventThread.java:65)- Starting ZkClient event thread.

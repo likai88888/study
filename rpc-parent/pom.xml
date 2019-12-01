@@ -1,0 +1,44 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.nx.likai</groupId>
+	<artifactId>rpc-parent</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<modules>
+		<module>rpc-client</module>
+		<module>rpc-server</module>
+		<module>rpc-protocol</module>
+		<module>rp-interface</module>
+		<module>rpc-service</module>
+		<module>rpc-serviceImpl</module>
+		<module>rp-service</module>
+	</modules>
+	<properties>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
+		<!-- 文件拷贝时的编码 -->    
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>    
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>    
+        <!-- 编译时的编码 -->    
+        <maven.compiler.encoding>UTF-8</maven.compiler.encoding>  
+	</properties>
+	
+	<dependencies>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter</artifactId>
+			<version>2.2.1.RELEASE</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.18.10</version>
+			<scope>provided</scope>
+		</dependency>
+
+	</dependencies>
+</project>
